@@ -1,4 +1,5 @@
 Lab 1 - MSDS 7331 Section 404  
+<br>  
 Chris Irwin, Damon Resnick, Josh Klein, and Anna Frowein  
 Business Understanding  
 Purchasing a home is one of the largest purchases individuals will generally make in their lifetime, understanding the value of the house is an important step in the process of purchasing or selling of a house. Zillow, an online real-estate database allows for consumers to research estimated market values in the different areas. The estimated market value is calculated daily using public housing information and user inputted data in the calculation, Zillow calls this estimate a “Zestimate.” While Zestimates are not available in all areas, Zillow has released that since their launch the median margin of error has improved from 14% to approximately 5.5%.  
